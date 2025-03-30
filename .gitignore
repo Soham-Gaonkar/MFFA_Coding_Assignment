@@ -1,0 +1,14 @@
+
+human+activity+recognition+using+smartphones/
+
+helper_functions/__pycache__/
+processed_signals/
+images/
+mffa_env/
+__pycache__/
+*.pyc
+*.npy
+
+.ipynb_checkpoints/
+
+.vscode/
